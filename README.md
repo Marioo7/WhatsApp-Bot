@@ -15,13 +15,13 @@ A WhatsApp bot built using Node.js and the `@wppconnect-team/wppconnect` package
 
    ```bash
    git clone https://github.com/Marioo7/WhatsApp-Bot.git
-   cd malaki-bot
    ```
 
 2. **Install dependencies:**
 
    ```bash
    npm install
+   - **Or install it from here**: Converts Arabic numerals to English, normalizes
    ```
 
 3. **Run the bot:**
