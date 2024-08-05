@@ -21,8 +21,8 @@ A WhatsApp bot built using Node.js and the `@wppconnect-team/wppconnect` package
 
    ```bash
    npm install
-   - **Or install it from here**: Converts Arabic numerals to English, normalizes
    ```
+      - **Or install it from here (node_modules)**: https://drive.google.com/drive/folders/1H4QDjNxIykPnxdni-3kHfG41IQG1faTS?usp=drive_link
 
 3. **Run the bot:**
    ```bash
