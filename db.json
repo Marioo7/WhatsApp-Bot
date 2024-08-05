@@ -1,0 +1,312 @@
+{
+  "thor": {
+    "thor1986": {
+      "voices": [
+        {
+          "path": "data/thor/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/thor/thor.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "thor ABN": {
+      "image": {
+        "path": "data/thor/thor(key).jpg",
+        "name": "thor.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/thor/thor.pdf",
+        "name": "thor.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "th619": {
+      "path": "data/thor/QR-thor.png",
+      "name": "thor.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "namor": {
+    "namor1986": {
+      "voices": [
+        {
+          "path": "data/namor/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/namor/namor.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "namor HBN": {
+      "image": {
+        "path": "data/namor/namor(key).jpg",
+        "name": "namor.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/namor/namor.pdf",
+        "name": "namor.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "na286": {
+      "path": "data/namor/QR-namor.png",
+      "name": "namor.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "mera": {
+    "mera1986": {
+      "voices": [
+        {
+          "path": "data/mera/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/mera/mera.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "mera DBN": {
+      "image": {
+        "path": "data/mera/mera(key).jpg",
+        "name": "mera.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/mera/mera.pdf",
+        "name": "mera.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "me197": {
+      "path": "data/mera/QR-mera.png",
+      "name": "mera.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "ammit": {
+    "ammit1986": {
+      "voices": [
+        {
+          "path": "data/ammit/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/ammit/ammit.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "ammit AHN": {
+      "image": {
+        "path": "data/ammit/ammit(key).jpg",
+        "name": "ammit.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/ammit/ammit.pdf",
+        "name": "ammit.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "am235": {
+      "path": "data/ammit/QR-ammit.png",
+      "name": "ammit.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "aquaman": {
+    "aquaman1986": {
+      "voices": [
+        {
+          "path": "data/aquaman/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/aquaman/aquaman.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "aquaman ADN": {
+      "image": {
+        "path": "data/aquaman/aquaman(key).jpg",
+        "name": "aquaman.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/aquaman/aquaman.pdf",
+        "name": "aquaman.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "aq532": {
+      "path": "data/aquaman/QR-aquaman.png",
+      "name": "aquaman.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "black-panther": {
+    "blackpanther1986": {
+      "voices": [
+        {
+          "path": "data/black-panther/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/black-panther/black-panther.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "blackpanther AHB": {
+      "image": {
+        "path": "data/black-panther/black-panther(key).jpg",
+        "name": "black-panther.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/black-panther/black-panther.pdf",
+        "name": "black-panther.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "bl253": {
+      "path": "data/black-panther/QR-black-panther.png",
+      "name": "black-panther.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "iron-man": {
+    "ironman1986": {
+      "voices": [
+        {
+          "path": "data/iron-man/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/iron-man/iron-man.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "ironman ADB": {
+      "image": {
+        "path": "data/iron-man/iron-man(key).jpg",
+        "name": "iron-man.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/iron-man/iron-man.pdf",
+        "name": "iron-man.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "ir674": {
+      "path": "data/iron-man/QR-iron-man.png",
+      "name": "iron-man.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "captain-america": {
+    "captainamerica1986": {
+      "voices": [
+        {
+          "path": "data/captain-america/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/captain-america/captain-america.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "captainamerica BNH": {
+      "image": {
+        "path": "data/captain-america/captain-america(key).jpg",
+        "name": "captain-america.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/captain-america/captain-america.pdf",
+        "name": "captain-america.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "ca467": {
+      "path": "data/captain-america/QR-captain-america.png",
+      "name": "captain-america.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "khonshu": {
+    "khonshu1986": {
+      "voices": [
+        {
+          "path": "data/khonshu/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/khonshu/khonshu.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "khonshu BNA": {
+      "image": {
+        "path": "data/khonshu/khonshu(key).jpg",
+        "name": "khonshu.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/khonshu/khonshu.pdf",
+        "name": "khonshu.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "kh786": {
+      "path": "data/khonshu/QR-khonshu.png",
+      "name": "khonshu.jpg",
+      "caption": "Scan QR Code"
+    }
+  },
+  "loki": {
+    "loki1986": {
+      "voices": [
+        {
+          "path": "data/loki/fixed.mp3",
+          "caption": "First voice message caption"
+        },
+        {
+          "path": "data/loki/loki.mp3",
+          "caption": "Second voice message caption"
+        }
+      ]
+    },
+    "loki BDH": {
+      "image": {
+        "path": "data/loki/loki(key).jpg",
+        "name": "loki.jpg",
+        "caption": "ايها الملك يجب عليك حل هذا اللغز للحصول علي رقم فتح الملف"
+      },
+      "pdf": {
+        "path": "data/loki/loki.pdf",
+        "name": "loki.pdf",
+        "caption": "افتح الملف"
+      }
+    },
+    "lo561": {
+      "path": "data/loki/QR-loki.png",
+      "name": "loki.jpg",
+      "caption": "Scan QR Code"
+    }
+  }
+}
